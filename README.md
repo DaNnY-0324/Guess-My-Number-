@@ -1,4 +1,6 @@
-Guess My Number!
+**Guess My Number!**
+
+
 Overview
 "Guess My Number!" is a simple number guessing game. The game generates a random secret number between 1 and 20, and the player has to guess the number. The game provides feedback if the guess is too high, too low, or correct. The player's score decreases with each wrong guess, and the game keeps track of the highest score achieved.
 
